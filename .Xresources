@@ -1,0 +1,102 @@
+r.size:24
+Xcursor.size: 24
+Xft.dpi: 75
+
+!URxvt.font: xft:FuraMono-Regular Powerline:size=10,xft:FontAwesome:size=10
+URxvt.font: xft:Fira Code:style=Regular:size=11,xft:FontAwesome:size=10
+!!URxvt.font: xft:Source Code Pro for Powerline:size=10,xft:FontAwesome:size=10
+URxvt.scrollBar: false
+URxvt.saveLines: 2000
+URxvt.urgentOnBell: True
+URxvt.cursorBlink: True
+URxvt.transparent: False
+!URxvt.transparent: True
+!URxvt.fading: 40
+!URxvt.shading: 50
+URxvt.depth: 32
+URxvt.keysym.Shift-Control-V: perl:clipboard:paste
+URxvt.iso14755: False
+URxvt.perl-ext-common: default,clipboard
+
+#define t_black #222626
+#define t_background #c8222626
+#define t_transparent #00000000
+#define t_red #CC4E47
+#define t_green #7BBA4E
+#define t_yellow #e5c03b
+#define t_blue  #68aacc
+#define t_purple #A474A5
+#define t_cyan #97BEC6
+#define t_white #ACBFBF
+
+*.foreground: t_white
+*.background: t_black
+*.cursorColor: t_white
+
+URxvt.background: [75]#222626
+
+
+! Black / Grey
+*.color0:       t_black
+*.color8:       t_black
+
+! Red / Bright Red
+*.color1:       t_red
+*.color9:       t_red
+
+! Green + Bright Green
+*.color2:       t_green
+*.color10:      t_green
+
+! Yellow (Orange) + Bright Yellow (Yellow)
+*.color3:       t_yellow
+*.color11:      t_yellow
+
+! Blue + Bright Blue
+*.color4:       t_blue
+*.color12:      t_blue
+
+! Magenta (Purple) + Bright Magenta
+*.color5:       t_purple
+*.color13:      t_purple
+
+! Cyan (Aqua) + Bright Cyan
+*.color6:       t_cyan
+*.color14:      t_cyan
+
+! Light Grey (Selection) + White (Current Line)
+*.color7: t_white
+*.color15: t_white
+
+
+rofi.color-enabled: true
+rofi.fuzzy: true
+rofi.dpi: 80
+rofi.hide-scrollbar: true
+!States: bg, fg, bgalt, hlbg, hlfg
+rofi.color-normal: t_transparent,t_white,t_transparent,t_transparent,t_purple
+rofi.color-urgent: t_transparent,t_red,t_transparent,t_transparent,t_purple
+rofi.color-active: t_transparent,t_transparent,t_transparent,t_purple
+!states: background, border
+rofi.color-window: t_background,t_purple
+
+rofi.separator-style: solid
+rofi.sidebar-mode: false
+rofi.bw: 4
+rofi.columns: 1
+rofi.padding: 50
+rofi.eh: 1
+rofi.line-margin: 35
+
+!rofi.fullscreen: true
+rofi.xoffset: 0
+rofi.yoffset: 350
+rofi.opacity: 100
+rofi.fake-transparency: false
+rofi.location: 2
+rofi.width: 40
+rofi.font: Source Sans Pro 15
+rofi.lines: 3
+
+rofi.border-radius: 8
+

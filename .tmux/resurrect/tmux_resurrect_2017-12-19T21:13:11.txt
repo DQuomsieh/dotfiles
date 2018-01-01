@@ -1,0 +1,14 @@
+pane	0	0	:music	0	:	0	:/home/dquomsieh	1	bash	:
+pane	0	0	:music	0	:	1	:/home/dquomsieh	0	cava	:cava
+pane	0	1	:vimwiki	0	:	0	:/home/dquomsieh	1	vim	:vim vimwiki/index.wiki
+pane	0	2	:assembly	0	:-	0	:/home/dquomsieh/Desktop/coding/assembly/sample_programs/from_slides	0	vim	:vim slide206.asm
+pane	0	2	:assembly	0	:-	1	:/home/dquomsieh/Desktop/coding/assembly/sample_programs/from_slides/slide220	1	bash	:
+pane	0	3	:exercism	1	:*	0	:/home/dquomsieh/exercism/java/hello-world	1	vim	:vim TUTORIAL.md
+pane	0	3	:exercism	1	:*	1	:/home/dquomsieh/exercism/java/hello-world	0	bash	:
+pane	0	4	:playground	0	:	0	:/home/dquomsieh/IdeaProjects/Project3_Dictionary/src	1	bash	:
+window	0	0	0	:	120d,211x56,0,0[211x28,0,0,1,211x27,0,29,2]
+window	0	1	0	:	c700,105x56,0,0,3
+window	0	2	0	:-	9214,211x56,0,0[211x28,0,0,4,211x27,0,29,5]
+window	0	3	1	:*	8918,211x56,0,0[211x29,0,0,6,211x26,0,30,7]
+window	0	4	0	:	c565,211x56,0,0,8
+state	0	

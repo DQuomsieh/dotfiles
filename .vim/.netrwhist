@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/etc/openvpn/easy-rsa'
+let g:netrw_dirhist_2='/home/dquomsieh/Desktop/simple-todos/imports/components/todosList/todosList.html'
+let g:netrw_dirhist_3='/home/dquomsieh/Desktop/simple-todos/imports/components/todosList'
+let g:netrw_dirhist_4='/home/dquomsieh/Desktop/simple-todos/imports/components/todosList/todosList.html'
+let g:netrw_dirhist_5='/home/dquomsieh/vimwiki/diary'
+let g:netrw_dirhist_6='/home/dquomsieh/vimwiki'
+let g:netrw_dirhist_7='/home/dquomsieh'
+let g:netrw_dirhist_8='/home/dquomsieh/vimwiki'

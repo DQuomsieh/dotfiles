@@ -1,0 +1,14 @@
+pane	0	0	:ncmpcpp	0	:	0	:/home/dquomsieh	1	ncmpcpp	:ncmpcpp
+pane	0	0	:ncmpcpp	0	:	1	:/home/dquomsieh	0	cava	:cava
+pane	0	1	:vim	1	:*	0	:/home/dquomsieh	1	vim	:vim vimwiki/index.wiki
+pane	0	2	:vim	0	:	0	:/home/dquomsieh/Desktop/coding/assembly/sample_programs	0	vim	:vim hello_1/hello.asm
+pane	0	2	:vim	0	:	1	:/home/dquomsieh/Desktop/coding/assembly/sample_programs	1	bash	:
+pane	0	3	:bash	0	:-	0	:/home/dquomsieh	1	bash	:
+pane	0	3	:bash	0	:-	1	:/home/dquomsieh	0	bash	:
+pane	0	4	:bash	0	:	0	:/home/dquomsieh	1	bash	:
+window	0	0	0	:	7db5,105x56,0,0[105x28,0,0,1,105x27,0,29,2]
+window	0	1	1	:*	c700,105x56,0,0,3
+window	0	2	0	:	d6bc,105x56,0,0[105x27,0,0,4,105x28,0,28,5]
+window	0	3	0	:-	fdc1,105x56,0,0[105x28,0,0,6,105x27,0,29,7]
+window	0	4	0	:	c705,105x56,0,0,8
+state	0	
